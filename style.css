@@ -839,7 +839,7 @@ textarea::placeholder {
     max-width: 90%;
     max-height: 50%;
     border-radius: 50%;
-    background-image: url('/img/me/DSCF0704-nobg.png');
+    background-image: url('img/me/DSCF0704-nobg.png');
     background-size: cover;
    }
 
