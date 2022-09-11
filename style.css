@@ -573,7 +573,7 @@ background-image: linear-gradient(296deg, rgba(194, 26, 26, 0.01) 0%, rgba(233, 
 
 .project--wrapper {
     margin-top: 25px;
-    width: 85%;
+    width: 95%;
     grid-template-columns: 1fr;
     grid-gap: 20px;
 }
