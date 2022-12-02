@@ -302,7 +302,7 @@ main {
 /* ! HOME CONTENT !!!!###### */
 
 .home--content {
-    background-image: url('/img/bg.jpg');
+    background-image: url('img/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
